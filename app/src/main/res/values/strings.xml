@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Videogames DB</string>
+    <string name="juego_guardado">Juego guardado exitosamente</string>
+    <string name="t_titulo">Título</string>
+    <string name="fecha_de_estreno_dd_mm_yy">Fecha de estreno (DD-MM-YY)</string>
+    <string name="director">Director</string>
+    <string name="game_dialog_title">Película</string>
+    <string name="imagen">Imagen</string>
+    <string name="no_hay_registros">¡No hay registros!</string>
+    <string name="agregrar_elemento">Agregrar elemento</string>
+
+
+    <string name="genre_action">Acción</string>
+    <string name="genre_adventure">Aventura</string>
+    <string name="genre_scifi">Ciencia ficción</string>
+    <string name="genre_drama">Drama</string>
+    <string name="genre_fantasy">Fantasía</string>
+    <string name="genre_romance">Romance</string>
+    <string name="genre_suspense">Suspenso</string>
+    <string name="genre_horror">Terror</string>
+
+</resources>
